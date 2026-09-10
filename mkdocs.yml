@@ -2,4 +2,4 @@ site_name: "SRE Documentation"
 nav:
   - Главная: index.md
   - Runbooks:
-      - Runbook: Высокое время ответа HTTP: runbooks/high_latency.md
+      - Высокое время ответа HTTP: runbooks/high_latency.md
