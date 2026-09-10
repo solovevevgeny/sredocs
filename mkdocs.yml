@@ -1,0 +1,5 @@
+site_name: "SRE Documentation"
+nav:
+  - Главная: index.md
+  - Runbooks:
+      - Рост 5xx: runbooks/http_5xx_rate_high.md
